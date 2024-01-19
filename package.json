@@ -1,0 +1,15 @@
+{
+  "name": "learning_with_zaki",
+  "version": "1.0.0",
+  "description": "zaki ko phadaunga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "author": "himanshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
